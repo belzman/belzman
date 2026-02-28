@@ -1,8 +1,7 @@
-## Hi there 👋 
 ### Belayneh Endalamaw Dejene
  Artificial Intelligence | Machine Learning | Data Science | Data Analyst
  ## About Me
- 🔭I'm Belayneh Endalamaw Dejene, Data Science and AI researcher, and Lecturer at the University of Gondar, Ethiopia.
+ ## Hi there 👋 🔭I'm Belayneh Endalamaw Dejene, Data Science and AI researcher, and Lecturer at the University of Gondar, Ethiopia.
 ### Research Interest
      - Machine Learning
      - Computer vision
