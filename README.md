@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+#[My CV](https://drive.google.com/file/d/1b1bNQwtgyo-BFxXppzvHtoXJbq-2n8mv/view?usp=sharing)
+<!--\\\
 **belzman/belzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
