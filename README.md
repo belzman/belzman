@@ -11,6 +11,8 @@ I'm a ML & AI Engineer based in Ethiopia, dedicated to building intelligent syst
 
 - Generative AI: LLMs, RAG (Retrieval-Augmented Generation), and Prompt Engineering.
   
+- Predictive Modeling and Analysis
+  
 - Federated Analysis
   
 - Computer Vision: Image classification, object detection, and spatial analysis.
@@ -20,7 +22,9 @@ I'm a ML & AI Engineer based in Ethiopia, dedicated to building intelligent syst
 I build RAG-LLM enhanced intelligent systems that bridge **knowledge retrieval, reasoning, and real-world decision-making and educational support tools**.
 
 I am actively seeking opportunities in:
-- Generative AI Engineering  
+- Generative AI Engineering
+- Data Science and Analyst
+- Machine Learning Engineer
 - Applied AI Research  
 - LLM Systems Development  
 - AI Infrastructure & MLOps 
